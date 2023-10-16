@@ -1,0 +1,35 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+/* Use CSS to change all the color titles to have "font-weight: normal; */
+.color-title {
+    font-weight: normal;
+}
+
+/* Use CSS to style each of the color titles to meaning. */
+/*Rojo*/
+#red {
+    color: red;
+}
+/*Azul*/
+#blue {
+    color: blue;
+}
+/*Anaranjado*/
+#orange {
+    color: orange;
+}
+
+/*Verde*/
+#green {
+    color: green;
+}
+
+/*Amarillo*/
+#yellow {
+    color: yellow;
+}
+
+
